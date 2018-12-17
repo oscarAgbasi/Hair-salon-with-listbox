@@ -12,8 +12,7 @@ namespace Lab3b
 {
     /*
    Author:Agbasi oscar 
-   Student number: 000333302
-    Date: Nov., 11 2018
+   
     */
     public partial class Form1 : Form
     {
